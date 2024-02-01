@@ -2,3 +2,4 @@ hello world
 hello earth
 hello Sun
 heloo hello
+Sudo vs Su
